@@ -1,5 +1,4 @@
-# Driver-Drowsiness-Detection-System
-To build a real-time system that monitors a driver's facial landmarks through a webcam and detects signs of drowsiness — such as prolonged eye closure — triggering a visual alert to prevent accidents.
+
 # Driver Drowsiness Detection System
 
 Real-time driver drowsiness detection using MediaPipe Face Mesh and OpenCV to prevent accidents caused by fatigue.
